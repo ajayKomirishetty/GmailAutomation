@@ -1,0 +1,14 @@
+c:\users\ajay.komirishetty\documents\visual studio 2015\Projects\automationpractice\automationpractice\bin\Debug\automationpractice.exe.config
+c:\users\ajay.komirishetty\documents\visual studio 2015\Projects\automationpractice\automationpractice\bin\Debug\automationpractice.exe
+c:\users\ajay.komirishetty\documents\visual studio 2015\Projects\automationpractice\automationpractice\bin\Debug\automationpractice.pdb
+c:\users\ajay.komirishetty\documents\visual studio 2015\Projects\automationpractice\automationpractice\bin\Debug\WebDriver.dll
+c:\users\ajay.komirishetty\documents\visual studio 2015\Projects\automationpractice\automationpractice\bin\Debug\WebDriver.Support.dll
+c:\users\ajay.komirishetty\documents\visual studio 2015\Projects\automationpractice\automationpractice\bin\Debug\WebDriver.xml
+c:\users\ajay.komirishetty\documents\visual studio 2015\Projects\automationpractice\automationpractice\bin\Debug\WebDriver.Support.xml
+c:\users\ajay.komirishetty\documents\visual studio 2015\Projects\automationpractice\automationpractice\obj\Debug\automationpractice.csprojResolveAssemblyReference.cache
+c:\users\ajay.komirishetty\documents\visual studio 2015\Projects\automationpractice\automationpractice\obj\Debug\automationpractice.exe
+c:\users\ajay.komirishetty\documents\visual studio 2015\Projects\automationpractice\automationpractice\obj\Debug\automationpractice.pdb
+c:\users\ajay.komirishetty\documents\visual studio 2015\Projects\automationpractice\automationpractice\bin\Debug\nunit.framework.dll
+c:\users\ajay.komirishetty\documents\visual studio 2015\Projects\automationpractice\automationpractice\bin\Debug\nunit.framework.xml
+C:\Users\ajay.komirishetty\Documents\Visual Studio 2015\Projects\automationpractice\automationpractice\bin\Debug\FunScript.TypeScript.Binding.lib.dll
+C:\Users\ajay.komirishetty\Documents\Visual Studio 2015\Projects\automationpractice\automationpractice\bin\Debug\FunScript.TypeScript.Binding.nodemailer.dll
